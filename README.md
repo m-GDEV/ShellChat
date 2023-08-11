@@ -30,12 +30,10 @@ Create multiple stopwatchs with labels. You can find a live demo [here](<[https:
 
 Clone the repository and then run the following commands in the directory:
 
-````bash
-```pip install  openai
-   python3 main.py
-``
+```bash
+pip install  openai
+python3 main.py
+```
 
 ## Contact
 Created by [Musa Ahmed](https://github.com/m-GDEV). Check out my website: <https://connectiwthmusa.com>
-
-````
