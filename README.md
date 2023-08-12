@@ -1,4 +1,4 @@
-# # 💬 ShellChat
+# 💬 ShellChat
 
 ![In development?](https://img.shields.io/badge/-Not%20In%20Development-red?style=flatsquare) ![Website up?](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fm-gdev.github.io%2FShortURL%2F) <br>
 Create multiple stopwatchs with labels. You can find a live demo [here](<[https://m-gdev.github.io/ShortURL](https://label-watch.vercel.app/)>).
@@ -36,4 +36,5 @@ python3 main.py
 ```
 
 ## Contact
+
 Created by [Musa Ahmed](https://github.com/m-GDEV). Check out my website: <https://connectiwthmusa.com>
