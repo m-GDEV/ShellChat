@@ -5,7 +5,7 @@ Create multiple stopwatchs with labels. You can find a live demo [here](<[https:
 
 #### Table of Contents
 
--   [Screenshot](#screenshot)
+-   [Demo](#demo)
 -   [Why I Created this Project](#why-i-created-this-project)
 -   [Technologies Used](#technologies-used)
 -   [Features](#features)
@@ -16,7 +16,7 @@ Create multiple stopwatchs with labels. You can find a live demo [here](<[https:
 
 ## Screenshot
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./demo.gif)
 
 ## Why I Created this Project
 
