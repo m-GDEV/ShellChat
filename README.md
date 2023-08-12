@@ -14,7 +14,7 @@ Create multiple stopwatchs with labels. You can find a live demo [here](<[https:
 -   [Contact](#contact)
 -   [License](#license)
 
-## Screenshot
+## Demo
 
 ![Project Screenshot](./demo.gif)
 
