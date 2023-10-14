@@ -15,13 +15,26 @@ les_messages = [
 
 # Infinite loop where you can talk to ChatGPT
 while True:
+    print("Enter your prompt. Press ENTER + CTRL-D to submit.")
     cprint("User: ", "red", attrs=["bold"], end="")
-    message = input("")
 
-    if message == "exit" or message == "Exit":
+    # Getting multiline user input
+    prompt = ""
+
+    while True:
+        try:
+            line = input("")
+        except:
+            break
+        prompt += line
+
+
+    if prompt == "exit" or prompt == "Exit":
         quit()
 
-    les_messages.append({"role": "user", "content": message})
+    les_messages.append({"role": "user", "content": prompt})
+
+    cprint("Thinking...", "yellow", attrs=["bold"])
 
     completion = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
